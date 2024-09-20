@@ -1,0 +1,62 @@
+body{
+    background-color: gray;
+}
+
+.cantainer{
+    background-color: white;
+    padding: 2px;
+    width: 220px;
+    height: 640px;
+    margin: 100px auto;
+    
+}
+.red{
+    background-color: red;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    border: 20px solid darkred
+      
+}  
+
+.yellow{
+    background-color:yellow;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    border: 20px solid gold
+      
+}  
+
+.green{
+    background-color:green;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    border: 20px solid darkgreen
+      
+} 
+.box1{
+    background-color:lightcoral;
+    width: 100%;
+    height: 50%;
+    margin-top: 50%;
+} 
+
+.box2{
+    background-color: lightgoldenrodyellow;
+    width: 50%;
+    height: 50%;
+    margin-top: 50%;
+    margin-left: 50%;
+}
+
+.box3{
+    background-color: lightgreen;
+    width: 50%;
+    height: 50%;
+    margin-top: 50%;
+}
